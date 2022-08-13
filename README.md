@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=313a74&section=footer&reversal=true&height=200&animation=twinkling&text=HAN%20SU&fontColor=13eab4&fontSize=160&fontAlignY=75&stroke=FFFFFF)
 
 
-<p align="center" display="inline-block">
+<p align="center">
   <Strong>📧Email📧</Strong>
-   </br>jhs852963@naver.com</br>
+  </br>jhs852963@naver.com</br>
   <a href="https://rpubs.com/blueberrysmoooothie">rpubs</a>
 </p>
 
