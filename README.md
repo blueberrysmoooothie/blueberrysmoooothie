@@ -4,7 +4,7 @@
 
 <p align="center">
   <Strong>📧Email📧</Strong>
-  </br>jhs852963@naver.com</br>
+  </br></br>
   <a href="https://rpubs.com/blueberrysmoooothie">rpubs</a>
 </p>
 
