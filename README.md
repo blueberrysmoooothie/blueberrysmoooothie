@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a13aa4&height=200&text=blueberrysmoooothie&animation=twinkling&fontColor=13eab4&fontSize=60&fontAlignY=20&stroke=FFFFFF)
-![header](https://capsule-render.vercel.app/api?type=waving&color=313a74&section=footer&reversal=true&height=200&animation=twinkling&text=HAN%20SU&fontColor=13eab4&fontSize=160&fontAlignY=75&stroke=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a13aa4&height=120&text=blueberrysmoooothie&animation=twinkling&fontColor=13eab4&fontSize=400&fontAlignY=20&stroke=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=313a74&section=footer&reversal=true&height=120&animation=twinkling&text=HAN%20SU&fontColor=13eab4&fontSize=1000&fontAlignY=75&stroke=FFFFFF)
 
 
 <p align="center">
-  <Strong>📧Email📧</Strong>
-  </br></br>
   <a href="https://rpubs.com/blueberrysmoooothie">rpubs</a>
 </p>
 
