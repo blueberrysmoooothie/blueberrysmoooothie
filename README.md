@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a13aa4&height=120&text=BLUEBERRYSMOOOOTHIE&animation=twinkling&fontColor=13eab4&fontSize=40&fontAlignY=90&stroke=FFFFFF)
-![header](https://capsule-render.vercel.app/api?type=waving&color=313a74&section=footer&reversal=true&height=120&animation=twinkling&text=ƎIHTOOOOMƧYЯЯƎꓭƎU⅃ꓭ&rotate=-180&fontColor=13eab4&fontSize=40&fontAlignY=90&stroke=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=313a74&section=footer&reversal=true&height=120&animation=twinkling&text=ƎIHTOOOOMƧYЯЯƎꓭƎU⅃ꓭ&rotate=-180&fontColor=19efb9&fontSize=40&fontAlignY=90&stroke=FFFFFF)
 
 
 <p align="center">
