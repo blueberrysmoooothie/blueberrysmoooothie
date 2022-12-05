@@ -3,6 +3,7 @@
 
 
 <p align="center">
+  <a href="https://blueberrysmoooothie.notion.site/300279b08799466eaaff848a500a96c4">Notion</a></br>
   <a href="https://rpubs.com/blueberrysmoooothie">rpubs</a></br>
   <a href="https://public.tableau.com/app/profile/hansu.jeong">Tableau Public</a>
 </p>
